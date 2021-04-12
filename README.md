@@ -3,7 +3,7 @@ Wavesurfer.js does normally not get along with Next.js and its server-side rende
 ## Running
 
 ```bash
-cd next-wavesurfer
+npm install
 npm run dev
 ```
 
